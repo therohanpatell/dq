@@ -1,0 +1,8 @@
+table: customer
+
+primary_key: customer_id
+
+columns:
+  - customer_id
+  - customer_name
+  - email
